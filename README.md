@@ -36,7 +36,7 @@ These insights empower stakeholders with key business metrics, enabling strategi
 ---
 
 ## 🛡️ License
-This project is licensed under the MIT License. You are free to use, modify, and share this project with proper attribution.
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
 ## 🌟 About Me
 Hi there! I'm Tannistha, also known as Tan;). I’m a third year computer science student specializing in data science and applying my knowledge here to track my progress and understanding. Thankyou 

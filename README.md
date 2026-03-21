@@ -41,6 +41,32 @@ This diagram illustrates the flow of data across different layers of the warehou
 <p align="center">
   <img src="docs/data_architecure.png" width="700"/>
 </p>
+
+This project is built using a layered architecture approach:
+
+- **Bronze Layer** → Raw data ingestion from source systems (CRM & ERP)
+- **Silver Layer** → Data cleaning, standardization, and transformation
+- **Gold Layer** → Business-ready data model (Star Schema)
+
+---
+
+## 🧱 Data Layers
+
+#### 🥉 Bronze Layer
+- Stores raw data exactly as received from source systems
+- No transformations applied
+- Serves as the single source of truth
+
+#### 🥈 Silver Layer
+- Cleans and standardizes data
+- Handles nulls, duplicates, and inconsistencies
+- Prepares structured datasets for analysis
+
+### #🥇 Gold Layer
+- Business-ready layer
+- Implements **Star Schema**
+- Optimized for reporting and analytics
+
 ---
 
 ## 🛡️ License

@@ -62,7 +62,7 @@ This project is built using a layered architecture approach:
 - Handles nulls, duplicates, and inconsistencies
 - Prepares structured datasets for analysis
 
-### #🥇 Gold Layer
+#### 🥇 Gold Layer
 - Business-ready layer
 - Implements **Star Schema**
 - Optimized for reporting and analytics

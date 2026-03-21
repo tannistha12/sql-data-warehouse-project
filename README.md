@@ -11,7 +11,7 @@ This project demonstrates a comprehensive data warehousing and analytics solutio
 ### Building the Data Warehouse (Data Engineering)
 
 #### Objective
-Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
+Develop a modern data warehouse using MYSQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
 
 #### Specifications
 - **Data Sources:** Import data from two source systems (ERP and CRM) provided as CSV files.

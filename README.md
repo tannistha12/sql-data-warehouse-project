@@ -39,7 +39,7 @@ These insights empower stakeholders with key business metrics, enabling strategi
 This diagram illustrates the flow of data across different layers of the warehouse, including ingestion, transformation, and analytical modeling.
 
 <p align="center">
-  <img src="docs/data_architecture.png" width="700"/>
+  <img src="docs/data_architecure.png" width="700"/>
 </p>
 ---
 
